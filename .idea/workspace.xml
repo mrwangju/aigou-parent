@@ -2,27 +2,109 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c02377b9-8eab-4cfd-a89a-ae09efeacb52" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config_server_8848/config_server_8848.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config_server_8848/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config_server_8848/src/main/java/cn/miswnag/ConfigServerApplication_8848.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config_server_8848/src/main/resources/application.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/resources/bootstrap.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/zuul_gateway_9527/src/main/resources/bootstrap.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_2_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_2_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_2_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generate_2_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_support_2_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_java8_9_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_5_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_engine_core_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_csource_fastdfs_fastdfs_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_0_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_0_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/aigou_gen/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/aigou_gen/src/main/java/cn/miswang/aigou/GenteratorCode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/aigou_gen/src/main/resources/aigou_product.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/aigou_gen/src/main/resources/templates/ClientHystrixFallbackFactory.java.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/aigou_gen/src/main/resources/templates/client.java.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/aigou_gen/src/main/resources/templates/controller.java.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/aigou_gen/src/main/resources/templates/query.java.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/util/BitStatesUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/util/ClassUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/util/CodeGenerateUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/util/LetterUtil.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/util/ProductStateConsts.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/util/PropertiesHelper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/util/StrUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/util/encrypt/DES.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/util/encrypt/MD5.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_interface/common_interface.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_interface/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_interface/src/main/java/cn/miswang/aigou/client/PageClient.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_interface/src/main/java/cn/miswang/aigou/client/PageClientFallbackFactory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_interface/src/main/java/cn/miswang/aigou/client/RedisClient.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_interface/src/main/java/cn/miswang/aigou/client/RedisClientFallbackFactory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_parent.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/common_service_8010.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/cn/miswang/aigou/CommonApplication_8010.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/cn/miswang/aigou/config/Swagger2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/cn/miswang/aigou/controller/FastDfsController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/cn/miswang/aigou/controller/PageController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/cn/miswang/aigou/controller/RedisController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/cn/miswang/aigou/utils/FastDfsApiOpr.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/cn/miswang/aigou/utils/RedisUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/cn/miswang/aigou/utils/VelocityUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/src/main/resources/application.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/src/main/resources/bootstrap.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/common_service_8010/src/main/resources/fast_client.conf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common_parent/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_interface/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/product_service_8002.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/ProductService_8002.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/config/MybatisPlusConfig.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/config/Swagger2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/application.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/bootstrap.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/template/common-footer.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/template/common-header-top.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/template/common-header.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/template/common-link.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/template/common-nav.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/template/common-right-sidebar.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/template/home.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/template/productType/product.type.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/test/java/cn/miswang/aigou/service/impl/ProductServiceImplTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/product_parent/product_service_8002/src/test/java/cn/miswng/test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/zuul_gateway_9527/src/main/java/cn/miswang/aigou/config/GlobalCorsConfig.java" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/query/BaseQuery.java" afterPath="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/query/BaseQuery.java" />
+      <change beforePath="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/util/AjaxResult.java" afterPath="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/util/AjaxResult.java" />
+      <change beforePath="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/util/PageList.java" afterPath="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/util/PageList.java" />
       <change beforePath="$PROJECT_DIR$/basic_parent/basic_util/target/classes/cn/miswang/aigou/query/BaseQuery.class" afterPath="$PROJECT_DIR$/basic_parent/basic_util/target/classes/cn/miswang/aigou/query/BaseQuery.class" />
-      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service_8001/plat_service_8001.iml" afterPath="$PROJECT_DIR$/plat_parent/plat_service_8001/plat_service_8001.iml" />
-      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service_8001/pom.xml" afterPath="$PROJECT_DIR$/plat_parent/plat_service_8001/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/resources/application.yml" />
-      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service_8001/target/classes/application.yml" afterPath="$PROJECT_DIR$/plat_parent/plat_service_8001/target/classes/application.yml" />
+      <change beforePath="$PROJECT_DIR$/basic_parent/basic_util/target/classes/cn/miswang/aigou/util/AjaxResult.class" afterPath="$PROJECT_DIR$/basic_parent/basic_util/target/classes/cn/miswang/aigou/util/AjaxResult.class" />
+      <change beforePath="$PROJECT_DIR$/basic_parent/basic_util/target/classes/cn/miswang/aigou/util/PageList.class" afterPath="$PROJECT_DIR$/basic_parent/basic_util/target/classes/cn/miswang/aigou/util/PageList.class" />
+      <change beforePath="$PROJECT_DIR$/config_server_8848/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/config_server_8848/src/main/resources/application.yml" />
+      <change beforePath="$PROJECT_DIR$/eureka_server_7001/pom.xml" afterPath="$PROJECT_DIR$/eureka_server_7001/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/miswang/aigou/controller/LoginController.java" afterPath="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/miswang/aigou/controller/LoginController.java" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service_8001/target/classes/cn/miswang/aigou/controller/LoginController.class" afterPath="$PROJECT_DIR$/plat_parent/plat_service_8001/target/classes/cn/miswang/aigou/controller/LoginController.class" />
       <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change beforePath="$PROJECT_DIR$/zuul_gateway_9527/pom.xml" afterPath="$PROJECT_DIR$/zuul_gateway_9527/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/zuul_gateway_9527/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/zuul_gateway_9527/src/main/resources/application.yml" />
-      <change beforePath="$PROJECT_DIR$/zuul_gateway_9527/zuul_gateway_9527.iml" afterPath="$PROJECT_DIR$/zuul_gateway_9527/zuul_gateway_9527.iml" />
+      <change beforePath="$PROJECT_DIR$/zuul_gateway_9527/src/main/java/cn/miswang/aigou/ZuulGatewayApplication_9527.java" afterPath="$PROJECT_DIR$/zuul_gateway_9527/src/main/java/cn/miswang/aigou/ZuulGatewayApplication_9527.java" />
+      <change beforePath="$PROJECT_DIR$/zuul_gateway_9527/src/main/java/cn/miswang/aigou/config/DocumentationConfig.java" afterPath="$PROJECT_DIR$/zuul_gateway_9527/src/main/java/cn/miswang/aigou/config/DocumentationConfig.java" />
+      <change beforePath="$PROJECT_DIR$/zuul_gateway_9527/src/main/resources/bootstrap.yml" afterPath="$PROJECT_DIR$/zuul_gateway_9527/src/main/resources/bootstrap.yml" />
+      <change beforePath="$PROJECT_DIR$/zuul_gateway_9527/target/classes/application.yml" afterPath="$PROJECT_DIR$/zuul_gateway_9527/target/classes/application.yml" />
+      <change beforePath="$PROJECT_DIR$/zuul_gateway_9527/target/classes/cn/miswang/aigou/ZuulGatewayApplication_9527.class" afterPath="$PROJECT_DIR$/zuul_gateway_9527/target/classes/cn/miswang/aigou/ZuulGatewayApplication_9527.class" />
+      <change beforePath="$PROJECT_DIR$/zuul_gateway_9527/target/classes/cn/miswang/aigou/config/DocumentationConfig.class" afterPath="$PROJECT_DIR$/zuul_gateway_9527/target/classes/cn/miswang/aigou/config/DocumentationConfig.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,6 +116,14 @@
     <ignored path="$PROJECT_DIR$/plat_parent/plat_interface/target/" />
     <ignored path="$PROJECT_DIR$/plat_parent/plat_service_8001/target/" />
     <ignored path="$PROJECT_DIR$/config_server_8848/target/" />
+    <ignored path="$PROJECT_DIR$/product_parent/target/" />
+    <ignored path="$PROJECT_DIR$/product_parent/product_interface/target/" />
+    <ignored path="$PROJECT_DIR$/product_parent/product_service_8002/target/" />
+    <ignored path="$PROJECT_DIR$/aigou_gen/target/" />
+    <ignored path="$PROJECT_DIR$/common_parent/target/" />
+    <ignored path="$PROJECT_DIR$/common_parent/common_interface/target/" />
+    <ignored path="$PROJECT_DIR$/common_parent/common_service/target/" />
+    <ignored path="$PROJECT_DIR$/common_parent/common_service_8010/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,106 +131,131 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="aigou_parent" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/pom.xml">
+      <file leaf-file-name="ProductServiceImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/service/impl/ProductServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="634">
-              <caret line="72" column="8" lean-forward="false" selection-start-line="54" selection-start-column="3" selection-end-line="72" selection-end-column="8" />
+            <state relative-caret-position="30">
+              <caret line="54" column="9" lean-forward="false" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrandServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/service/impl/BrandServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="49" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="BrandMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/cn/miswang/aigou/mapper/BrandMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="41" column="25" lean-forward="false" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+            <state relative-caret-position="540">
+              <caret line="18" column="3" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="28" selection-end-column="13" />
+              <folding>
+                <marker date="1547711448532" expanded="true" signature="1583:1725" ph="SELECT b.*,t... t_brand" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/mapper/ProductMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="19" column="2" lean-forward="false" selection-start-line="19" selection-start-column="2" selection-end-line="20" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/resources/application.yml">
+      <file leaf-file-name="ProductExtMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/mapper/ProductExtMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            <state relative-caret-position="420">
+              <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config_server_8848/src/main/resources/application.yml">
+      <file leaf-file-name="ProductController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/controller/ProductController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="59" />
+            <state relative-caret-position="2520">
+              <caret line="95" column="32" lean-forward="false" selection-start-line="95" selection-start-column="32" selection-end-line="95" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1707#1708#0" expanded="true" />
+                <element signature="e#1759#1760#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/cn/miswang/aigou/mapper/ProductMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3300">
+              <caret line="110" column="0" lean-forward="false" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+              <folding>
+                <marker date="1547820965548" expanded="true" signature="1812:2274" ph="SELECT p.*, t_product" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductExtMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/cn/miswang/aigou/mapper/ProductExtMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="19" column="49" lean-forward="false" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/resources/application.yml">
+      <file leaf-file-name="IProductService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/service/IProductService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+            <state relative-caret-position="480">
+              <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ZuulGatewayApplication_9527.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/java/cn/miswang/aigou/ZuulGatewayApplication_9527.java">
+      <file leaf-file-name="BrandController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/controller/BrandController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/plat_parent/plat_interface/src/main/java/cn/miswang/aigou/domain/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="32" column="18" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/resources/bootstrap.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1350">
-              <caret line="60" column="75" lean-forward="false" selection-start-line="60" selection-start-column="75" selection-end-line="60" selection-end-column="75" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="plat_service_8001.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/plat_service_8001.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="1470">
+              <caret line="60" column="3" lean-forward="false" selection-start-line="60" selection-start-column="3" selection-end-line="70" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -152,8 +267,20 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>itsource</find>
+      <find>tmeplatePath</find>
+      <find>ProductTypes</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>miswang</replace>
+      <replace>templatePath</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -166,28 +293,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/eureka_server_7001/pom.xml" />
-        <option value="$PROJECT_DIR$/eureka_server_7001/src/main/java/cn/miswang/aigou/EurekaService_7001.java" />
-        <option value="$PROJECT_DIR$/zuul_gateway_9527/src/main/java/cn/miswang/aigou/ZuulGatewayApplication_9527.java" />
-        <option value="$PROJECT_DIR$/basic_parent/pom.xml" />
-        <option value="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/query/util/PageList.java" />
-        <option value="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/util/AjaxResult.java" />
-        <option value="$PROJECT_DIR$/plat_parent/pom.xml" />
-        <option value="$PROJECT_DIR$/plat_parent/plat_interface/pom.xml" />
-        <option value="$PROJECT_DIR$/plat_parent/plat_interface/src/main/java/cn/miswang/aigou/domain/Employee.java" />
-        <option value="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/miswang/aigou/controller/LoginController.java" />
-        <option value="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/miswang/aigou/PlatApplication_8001.java" />
-        <option value="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/miswang/aigou/config/Swagger2.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/common_parent/common_service/pom.xml" />
+        <option value="$PROJECT_DIR$/common_parent/common_service/src/main/java/cn/miswang/aigou/config/Swagger2.java" />
         <option value="$PROJECT_DIR$/zuul_gateway_9527/src/main/java/cn/miswang/aigou/config/DocumentationConfig.java" />
-        <option value="$PROJECT_DIR$/zuul_gateway_9527/src/main/java/cn/miswang/aigou/config/SwaggerConfig.java" />
-        <option value="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/query/BaseQuery.java" />
-        <option value="$PROJECT_DIR$/config_server_8848/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/config_server_8848/src/main/java/cn/miswnag/ConfigServerApplication_8848.java" />
-        <option value="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/config_server_8848/pom.xml" />
+        <option value="$PROJECT_DIR$/common_parent/common_service/src/main/java/cn/miswang/aigou/config/utils/RedisUtils.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_service/src/main/java/cn/miswang/aigou/utils/RedisUtils.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_service/src/main/java/cn/miswang/aigou/controller/RedisController.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_interface/src/main/java/cn/miswang/aigou/client/RedisClientFallbackFactory.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_service/src/main/java/cn/miswang/aigou/CommonApplication_8010.java" />
+        <option value="$PROJECT_DIR$/common_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/common_parent/common_service_8010/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/cn/miswang/aigou/controller/RedisController.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_interface/src/main/java/cn/miswang/aigou/client/RedisClient.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/pom.xml" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/ProductService_8002.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_interface/src/main/java/cn/miswang/aigou/client/PageClientFallbackFactory.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/cn/miswang/aigou/utils/VelocityUtils.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_interface/src/main/java/cn/miswang/aigou/client/PageClient.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/cn/miswang/aigou/controller/PageController.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/cn/miswang/aigou/utils/RedisUtils.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/service/impl/ProductTypeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/cn/miswang/aigou/utils/FastDfsApiOpr.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_service_8010/pom.xml" />
+        <option value="$PROJECT_DIR$/common_parent/common_service_8010/src/main/resources/fast_client.conf" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/mapper/BrandMapper.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/cn/miswang/aigou/mapper/BrandMapper.xml" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/service/IBrandService.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/service/impl/BrandServiceImpl.java" />
+        <option value="$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/cn/miswang/aigou/controller/FastDfsController.java" />
+        <option value="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/util/viewOptions.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/controller/SpecificationController.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/controller/SpecificationOptionController.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/controller/TypeTemplateController.java" />
         <option value="$PROJECT_DIR$/plat_parent/plat_service_8001/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/zuul_gateway_9527/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka_server_7001/pom.xml" />
+        <option value="$PROJECT_DIR$/aigou_gen/src/main/java/cn/miswang/aigou/GenteratorCode.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_interface/src/main/java/cn/miswang/aigou/domain/ProductType.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_interface/src/main/java/cn/miswang/aigou/domain/Product.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/controller/ProductExtController.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/test/java/cn/miswng/test.java" />
+        <option value="$USER_HOME$/Desktop/Day08/aigou_parent/product_parent/product_service_8002/src/test/java/cn/itsource/aigou/service/BrandServiceTest.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/test/java/cn/miswang/aigou/service/impl/ProductServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/controller/ProductTypeController.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/controller/BrandController.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/service/IProductService.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/cn/miswang/aigou/mapper/ProductMapper.xml" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/mapper/ProductMapper.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/mapper/ProductExtMapper.java" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/cn/miswang/aigou/mapper/ProductExtMapper.xml" />
+        <option value="$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/service/impl/ProductServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -215,22 +371,17 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="plat_service_8001" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="plat_service_8001" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+          <item name="product_interface" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="932" />
-    <option name="y" value="20" />
-    <option name="width" value="1268" />
-    <option name="height" value="1028" />
+    <option name="x" value="117" />
+    <option name="y" value="36" />
+    <option name="width" value="1743" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -247,8 +398,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -260,34 +409,25 @@
             <path>
               <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou_gen" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat_interface" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou_gen" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou_gen" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou_gen" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -295,48 +435,7 @@
             <path>
               <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat_interface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat_service_8001" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat_service_8001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat_service_8001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat_service_8001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat_service_8001" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou_gen" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -345,8 +444,126 @@
             <path>
               <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat_service_8001" type="462c0819:PsiDirectoryNode" />
+              <item name="common_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_service_8010" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_service_8010" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_service_8010" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_service_8010" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_service_8010" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_service_8010" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_service_8010" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_service_8010" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="common_service_8010" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -354,6 +571,362 @@
             <path>
               <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="config_server_8848" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="config_server_8848" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="config_server_8848" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="config_server_8848" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="config_server_8848" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="miswnag" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka_server_7001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka_server_7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka_server_7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka_server_7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka_server_7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="plat_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="plat_service_8001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="plat_service_8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="plat_service_8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="plat_service_8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="plat_service_8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_service_8002" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="productType" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="miswng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
               <item name="zuul_gateway_9527" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -385,6 +958,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="aigou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul_gateway_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aigou" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aigou-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -398,12 +981,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -417,17 +1002,30 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="cn.miswang.aigou.service.impl" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\IDEA\IdeaProjects\aigou-parent\zuul_gateway_9527\src\main\resources" />
-      <recent name="E:\IDEA\IdeaProjects\aigou-parent\plat_parent\plat_service_8001\src\main\resources" />
-      <recent name="E:\IDEA\IdeaProjects\aigou-parent\config_server_8848\src\main\resources" />
-      <recent name="E:\IDEA\IdeaProjects\aigou_parent\zuul_gateway_9527\src\main\java\cn\miswang\aigou\config" />
-      <recent name="E:\IDEA\IdeaProjects\aigou_parent\plat_parent\plat_service_8001\src\main\java\cn\miswang\aigou\config" />
+      <recent name="E:\IDEA\IdeaProjects\aigou-parent\common_parent\common_service_8010\src\main\java\cn\miswang\aigou\utils" />
+      <recent name="E:\IDEA\IdeaProjects\aigou-parent\common_parent\common_service_8010\src\main\resources" />
+      <recent name="E:\IDEA\IdeaProjects\aigou-parent\product_parent\product_service_8002\src\main\resources" />
+      <recent name="E:\IDEA\IdeaProjects\aigou-parent\product_parent\product_service_8002\src\main\resources\template" />
+      <recent name="E:\IDEA\IdeaProjects\aigou-parent\common_parent\common_interface\src\main\java\cn\miswang\aigou\client" />
     </key>
   </component>
   <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
     <option name="ruleStates">
       <list>
         <RuleState>
@@ -438,14 +1036,34 @@
         </RuleState>
       </list>
     </option>
+    <option name="contentProportion" value="0.23877327" />
   </component>
-  <component name="RunManager" selected="Spring Boot.ZuulGatewayApplication_9527">
+  <component name="RunManager" selected="JUnit.ProductServiceImplTest.selectPageList">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="EurekaService_7001 (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.miswang.aigou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.miswang.aigou.EurekaService_7001" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="eureka_server_7001" />
+      <envs />
     </configuration>
     <configuration name="EurekaService_7001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -466,6 +1084,25 @@
       <module name="eureka_server_7001" />
       <envs />
     </configuration>
+    <configuration name="GenteratorCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.miswang.aigou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.miswang.aigou.GenteratorCode" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="aigou_gen" />
+      <envs />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -479,6 +1116,31 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+    </configuration>
+    <configuration name="ProductServiceImplTest.selectPageList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.miswang.aigou.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="product_service_8002" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.miswang.aigou.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="cn.miswang.aigou.service.impl.ProductServiceImplTest" />
+      <option name="METHOD_NAME" value="selectPageList" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -500,74 +1162,30 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="aigou_parent [install]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list>
-                <option value="install" />
-              </list>
-            </option>
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-    </configuration>
-    <configuration name="config_server_8848 [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list>
-                <option value="package" />
-              </list>
-            </option>
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$/config_server_8848" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-    </configuration>
-    <configuration name="plat_service_8001 [install]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list>
-                <option value="install" />
-              </list>
-            </option>
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$/plat_parent/plat_service_8001" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
+    <configuration name="test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.miswng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="product_service_8002" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.miswng" />
+      <option name="MAIN_CLASS_NAME" value="cn.miswng.test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
     <configuration name="plat_service_8001 [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
       <MavenSettings>
@@ -599,16 +1217,34 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
+    <configuration name="CommonApplication_8010" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.miswang.aigou.CommonApplication_8010" />
+      <module name="common_service_8010" />
+      <envs />
+    </configuration>
     <configuration name="ConfigServerApplication_8848" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.miswnag.ConfigServerApplication_8848" />
       <module name="config_server_8848" />
       <envs />
     </configuration>
+    <configuration name="EurekaService_7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.miswang.aigou.EurekaService_7001" />
+      <module name="eureka_server_7001" />
+      <envs />
+    </configuration>
     <configuration name="PlatApplication_8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.miswang.aigou.PlatApplication_8001" />
       <module name="plat_service_8001" />
+      <envs />
+    </configuration>
+    <configuration name="ProductService_8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.miswang.aigou.ProductService_8002" />
+      <module name="product_service_8002" />
       <envs />
     </configuration>
     <configuration name="ZuulGatewayApplication_9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -650,23 +1286,27 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="8">
-      <item index="0" class="java.lang.String" itemvalue="Spring Boot.PlatApplication_8001" />
-      <item index="1" class="java.lang.String" itemvalue="Spring Boot.ConfigServerApplication_8848" />
-      <item index="2" class="java.lang.String" itemvalue="Maven.plat_service_8001 [package]" />
-      <item index="3" class="java.lang.String" itemvalue="Maven.plat_service_8001 [install]" />
-      <item index="4" class="java.lang.String" itemvalue="Maven.config_server_8848 [package]" />
-      <item index="5" class="java.lang.String" itemvalue="Maven.aigou_parent [install]" />
-      <item index="6" class="java.lang.String" itemvalue="Application.EurekaService_7001" />
-      <item index="7" class="java.lang.String" itemvalue="Spring Boot.ZuulGatewayApplication_9527" />
+    <list size="12">
+      <item index="0" class="java.lang.String" itemvalue="Application.EurekaService_7001 (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.PlatApplication_8001" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.ConfigServerApplication_8848" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.ZuulGatewayApplication_9527" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.ProductService_8002" />
+      <item index="5" class="java.lang.String" itemvalue="Spring Boot.CommonApplication_8010" />
+      <item index="6" class="java.lang.String" itemvalue="Spring Boot.EurekaService_7001" />
+      <item index="7" class="java.lang.String" itemvalue="Application.EurekaService_7001" />
+      <item index="8" class="java.lang.String" itemvalue="Application.GenteratorCode" />
+      <item index="9" class="java.lang.String" itemvalue="JUnit.test.test" />
+      <item index="10" class="java.lang.String" itemvalue="Maven.plat_service_8001 [package]" />
+      <item index="11" class="java.lang.String" itemvalue="JUnit.ProductServiceImplTest.selectPageList" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.EurekaService_7001" />
-        <item index="1" class="java.lang.String" itemvalue="Maven.plat_service_8001 [package]" />
-        <item index="2" class="java.lang.String" itemvalue="Maven.plat_service_8001 [install]" />
-        <item index="3" class="java.lang.String" itemvalue="Maven.aigou_parent [install]" />
-        <item index="4" class="java.lang.String" itemvalue="Maven.config_server_8848 [package]" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ProductServiceImplTest.selectPageList" />
+        <item index="1" class="java.lang.String" itemvalue="Application.GenteratorCode" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.test.test" />
+        <item index="3" class="java.lang.String" itemvalue="Application.EurekaService_7001" />
+        <item index="4" class="java.lang.String" itemvalue="Maven.plat_service_8001 [package]" />
       </list>
     </recent_temporary>
   </component>
@@ -690,7 +1330,24 @@
       <workItem from="1547112206437" duration="130000" />
       <workItem from="1547126898518" duration="2122000" />
       <workItem from="1547129109334" duration="645000" />
-      <workItem from="1547129814185" duration="4773000" />
+      <workItem from="1547129814185" duration="5450000" />
+      <workItem from="1547167708681" duration="1657000" />
+      <workItem from="1547192729157" duration="2168000" />
+      <workItem from="1547254665773" duration="2189000" />
+      <workItem from="1547297220748" duration="5850000" />
+      <workItem from="1547303098739" duration="5138000" />
+      <workItem from="1547339792636" duration="8609000" />
+      <workItem from="1547381707225" duration="6967000" />
+      <workItem from="1547436031024" duration="17464000" />
+      <workItem from="1547513829143" duration="17354000" />
+      <workItem from="1547557561180" duration="9580000" />
+      <workItem from="1547600837088" duration="10325000" />
+      <workItem from="1547646984443" duration="5406000" />
+      <workItem from="1547687863912" duration="19469000" />
+      <workItem from="1547726401820" duration="5429000" />
+      <workItem from="1547783121932" duration="11546000" />
+      <workItem from="1547815115310" duration="7963000" />
+      <workItem from="1547827483088" duration="51000" />
     </task>
     <task id="LOCAL-00001" summary="这是一个测试">
       <created>1547096024143</created>
@@ -699,11 +1356,50 @@
       <option name="project" value="LOCAL" />
       <updated>1547096024143</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第二次提交">
+      <created>1547134639908</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547134639908</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="ProductServiceImplTest_selectPageList - 2019.01.18 at 19h 57m 59s.xml">
+      <configuration name="ProductServiceImplTest.selectPageList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_test - 2019.01.17 at 15h 16m 26s.xml">
+      <configuration name="test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_test - 2019.01.17 at 15h 18m 12s.xml">
+      <configuration name="test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_test - 2019.01.17 at 15h 18m 44s.xml">
+      <configuration name="test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_test - 2019.01.17 at 15h 26m 57s.xml">
+      <configuration name="test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_test - 2019.01.17 at 15h 38m 42s.xml">
+      <configuration name="test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_test - 2019.01.17 at 15h 39m 19s.xml">
+      <configuration name="test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_test - 2019.01.17 at 15h 40m 03s.xml">
+      <configuration name="test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_test - 2019.01.17 at 15h 41m 09s.xml">
+      <configuration name="test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_test - 2019.01.17 at 15h 42m 05s.xml">
+      <configuration name="test.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20082000" />
+    <option name="totallyTimeSpent" value="157924000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -718,39 +1414,41 @@
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33257404" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26233906" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.50429183" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22854078" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.042918455" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.060364466" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.85876995" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6765376" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7437358" sideWeight="0.49570817" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.85763097" sideWeight="0.49570817" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45671982" sideWeight="0.4914163" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25482833" sideWeight="0.48896435" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33154505" sideWeight="0.47708896" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27145922" sideWeight="0.5110357" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12017167" sideWeight="0.5059423" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27145922" sideWeight="0.5110357" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23390558" sideWeight="0.5229111" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.041002277" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.452164" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -761,443 +1459,454 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="这是一个测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="这是一个测试" />
+    <MESSAGE value="第二次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/java/cn/miswang/aigou/config/DocumentationConfig.java">
+    <entry file="file://$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/util/viewOptions.java" />
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/service/IProductTypeService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="360">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/cn/miswang/aigou/mapper/ProductTypeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_interface/src/main/java/cn/miswang/aigou/domain/Specification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_interface/src/main/java/cn/miswang/aigou/domain/SpecificationOption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-768">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_interface/src/main/java/cn/miswang/aigou/domain/TypeTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1248">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/service/impl/SpecificationOptionServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/service/impl/SpecificationServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/service/impl/TypeTemplateServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/service/ISpecificationOptionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/service/ISpecificationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/service/ITypeTemplateService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="86" column="32" lean-forward="false" selection-start-line="86" selection-start-column="32" selection-end-line="86" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1380">
-          <caret line="46" column="21" lean-forward="false" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        <state relative-caret-position="240">
+          <caret line="58" column="61" lean-forward="false" selection-start-line="58" selection-start-column="61" selection-end-line="58" selection-end-column="61" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/miswang/aigou/config/Swagger2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/java/cn/miswang/aigou/ZuulGatewayApplication_9527.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding>
-            <element signature="e#336#337#0" expanded="false" />
-            <element signature="e#413#414#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka_server_7001/src/main/java/cn/miswang/aigou/EurekaService_7001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="61" lean-forward="false" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
-          <folding>
-            <element signature="e#343#344#0" expanded="false" />
-            <element signature="e#411#412#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/miswang/aigou/PlatApplication_8001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
-          <caret line="47" column="21" lean-forward="false" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/java/cn/miswang/aigou/config/SwaggerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="52" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/miswang/aigou/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/java/cn/miswang/aigou/config/DocumentationConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1380">
-          <caret line="46" column="21" lean-forward="false" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/miswang/aigou/config/Swagger2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/java/cn/miswang/aigou/ZuulGatewayApplication_9527.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding>
-            <element signature="e#336#337#0" expanded="false" />
-            <element signature="e#413#414#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka_server_7001/src/main/java/cn/miswang/aigou/EurekaService_7001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="61" lean-forward="false" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
-          <folding>
-            <element signature="e#343#344#0" expanded="false" />
-            <element signature="e#411#412#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/miswang/aigou/PlatApplication_8001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
-          <caret line="47" column="21" lean-forward="false" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/java/cn/miswang/aigou/config/SwaggerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/miswang/aigou/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/java/cn/miswang/aigou/config/DocumentationConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/eureka_server_7001/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka_server_7001/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_parent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_parent/basic_util/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/query.java" />
-    <entry file="file://$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/util/PageList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/util/AjaxResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="642">
-          <caret line="35" column="27" lean-forward="false" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_interface/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/miswang/aigou/config/Swagger2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        <state relative-caret-position="280">
+          <caret line="38" column="66" lean-forward="false" selection-start-line="38" selection-start-column="66" selection-end-line="38" selection-end-column="66" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/miswang/aigou/query/BaseQuery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/miswang/aigou/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/java/cn/miswang/aigou/config/DocumentationConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/java/cn/miswang/aigou/config/SwaggerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/aigou_parent/config_server_8848/src/main/java/cn/itsource/aigou/ConfigServerApplication_8848.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config_server_8848/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        <state relative-caret-position="74">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eureka_server_7001/src/main/java/cn/miswang/aigou/EurekaService_7001.java">
+    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/java/cn/miswang/aigou/config/GlobalCorsConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="-138">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/java/cn/miswang/aigou/config/DocumentationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="17" column="65" lean-forward="false" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/controller/SpecificationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="31" />
           <folding>
-            <element signature="e#343#344#0" expanded="false" />
-            <element signature="e#411#412#0" expanded="false" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config_server_8848/src/main/java/cn/miswnag/ConfigServerApplication_8848.java">
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/controller/TypeTemplateController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="203">
+          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#427#428#0" expanded="false" />
-            <element signature="e#500#501#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/controller/SpecificationOptionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-517">
+          <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/miswang/aigou/PlatApplication_8001.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="210">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aigou_gen/src/main/java/cn/miswang/aigou/GenteratorCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="49" column="34" lean-forward="false" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_interface/src/main/java/cn/miswang/aigou/domain/ProductExt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_interface/src/main/java/cn/miswang/aigou/domain/ProductType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="223" column="56" lean-forward="true" selection-start-line="223" selection-start-column="56" selection-end-line="223" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_interface/src/main/java/cn/miswang/aigou/domain/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2057">
+          <caret line="185" column="36" lean-forward="false" selection-start-line="185" selection-start-column="36" selection-end-line="185" selection-end-column="36" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2088#2089#0" expanded="false" />
+            <element signature="e#2116#2117#0" expanded="false" />
+            <element signature="e#2151#2152#0" expanded="false" />
+            <element signature="e#2184#2185#0" expanded="false" />
+            <element signature="e#2227#2228#0" expanded="false" />
+            <element signature="e#2261#2262#0" expanded="false" />
+            <element signature="e#2320#2321#0" expanded="false" />
+            <element signature="e#2366#2367#0" expanded="false" />
+            <element signature="e#2397#2398#0" expanded="false" />
+            <element signature="e#2425#2426#0" expanded="false" />
+            <element signature="e#2466#2467#0" expanded="false" />
+            <element signature="e#2500#2501#0" expanded="false" />
+            <element signature="e#2541#2542#0" expanded="false" />
+            <element signature="e#2574#2575#0" expanded="false" />
+            <element signature="e#2630#2631#0" expanded="false" />
+            <element signature="e#2674#2675#0" expanded="false" />
+            <element signature="e#4245#4246#0" expanded="false" />
+            <element signature="e#4291#4292#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/resources/bootstrap.yml">
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/service/impl/ProductTypeServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="157">
+          <caret line="121" column="22" lean-forward="true" selection-start-line="121" selection-start-column="22" selection-end-line="121" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/service/IProductExtService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config_server_8848/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/service/impl/ProductExtServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="59" />
+        <state relative-caret-position="390">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/resources/bootstrap.yml">
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/mapper/BrandMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="480">
+          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/pom.xml">
+    <entry file="file://$USER_HOME$/Desktop/Day08/aigou_parent/product_parent/product_service_8002/src/test/java/cn/itsource/aigou/service/BrandServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="634">
-          <caret line="72" column="8" lean-forward="false" selection-start-line="54" selection-start-column="3" selection-end-line="72" selection-end-column="8" />
+        <state relative-caret-position="210">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/test/java/cn/miswng/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="19" column="40" lean-forward="false" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/test/java/cn/miswang/aigou/service/impl/ProductServiceImplTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="41" column="25" lean-forward="false" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+        <state relative-caret-position="282">
+          <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_server_7001/src/main/java/cn/miswang/aigou/EurekaService_7001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="60" column="75" lean-forward="false" selection-start-line="60" selection-start-column="75" selection-end-line="60" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/plat_service_8001.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_gateway_9527/src/main/java/cn/miswang/aigou/ZuulGatewayApplication_9527.java">
+    <entry file="file://$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/cn/miswang/aigou/CommonApplication_8010.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_interface/src/main/java/cn/miswang/aigou/domain/Employee.java">
+    <entry file="file://$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/cn/miswang/aigou/controller/FastDfsController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="32" column="18" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        <state relative-caret-position="66">
+          <caret line="21" column="58" lean-forward="false" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/cn/miswang/aigou/controller/PageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="13" column="42" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common_parent/common_service_8010/src/main/java/cn/miswang/aigou/controller/RedisController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/controller/ProductExtController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/service/IBrandService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/controller/ProductTypeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2790">
+          <caret line="105" column="0" lean-forward="true" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/controller/BrandController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="60" column="3" lean-forward="false" selection-start-line="60" selection-start-column="3" selection-end-line="70" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2520">
+          <caret line="95" column="32" lean-forward="false" selection-start-line="95" selection-start-column="32" selection-end-line="95" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1707#1708#0" expanded="true" />
+            <element signature="e#1759#1760#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/service/IProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/service/impl/BrandServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="49" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/cn/miswang/aigou/mapper/BrandMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="3" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <marker date="1547711448532" expanded="true" signature="1583:1725" ph="SELECT b.*,t... t_brand" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/mapper/ProductMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="19" column="2" lean-forward="false" selection-start-line="19" selection-start-column="2" selection-end-line="20" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/mapper/ProductExtMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/cn/miswang/aigou/mapper/ProductMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3300">
+          <caret line="110" column="0" lean-forward="false" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+          <folding>
+            <marker date="1547820965548" expanded="true" signature="1812:2274" ph="SELECT p.*, t_product" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/resources/cn/miswang/aigou/mapper/ProductExtMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="19" column="49" lean-forward="false" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_parent/product_service_8002/src/main/java/cn/miswang/aigou/service/impl/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="54" column="9" lean-forward="false" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
